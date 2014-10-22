@@ -1,0 +1,64 @@
+=======
+Duktape
+=======
+
+Duktape is a small and portable Ecmascript E5/E5.1 implementation.  It is
+intended to be easily embeddable into C programs, with a C API similar in
+spirit to Lua's.
+
+The goal is to support the full E5 feature set like Unicode strings and
+regular expressions.  Other feature highlights include:
+
+  * Custom types (like pointers and buffers) for C integration
+
+  * Reference counting and mark-and-sweep garbage collection
+    (with finalizer support)
+
+  * Co-operative threads, a.k.a. coroutines
+
+  * Tail call support
+
+You can browse Duktape programmer's API using the off-line version included
+in this distributable, or at::
+
+  http://www.duktape.org/
+
+Building and integrating Duktape into your project is very straightforward.
+See Makefile.example for an example::
+
+  $ cd <dist_root>
+  $ make -f Makefile.example
+  [...]
+  $ ./hello
+  Hello world!
+  2+3=5
+
+To build an example command line tool, use the following::
+
+  $ cd <dist_root>
+  $ make -f Makefile.cmdline
+  [...]
+  $ ./duk
+  ((o) Duktape
+  [... build info ...]
+  duk> print('Hello world!');
+  Hello world!
+  = undefined
+
+The source code should currently compile cleanly on Linux, OSX (Darwin), and
+FreeBSD, for both x86 and ARM.  The goal is of course to compile on almost
+any reasonable platform.
+
+There is a separate tar ball ("full distribution") for developing Duktape.
+It contains internal documentation and unit tests which are not necessary
+to use Duktape.
+
+Duktape is licensed under the MIT license (see ``LICENSE.txt``).
+MurmurHash2 is used internally; it is also under the MIT license.
+
+Have fun!
+
+-- 
+Sami Vaarala
+sami.vaarala@iki.fi
+

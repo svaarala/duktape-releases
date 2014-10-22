@@ -1,0 +1,34 @@
+#
+#  Example Makefile for building a program with embedded Duktape.
+#  The example program here is the Duktape command line tool.
+#
+
+DUKTAPE_SOURCES = src/duktape.c
+
+DUKTAPE_CMDLINE_SOURCES = \
+	examples/cmdline/duk_cmdline.c
+
+CC	= gcc
+CCOPTS	= -Os -pedantic -std=c99 -Wall -fstrict-aliasing -fomit-frame-pointer
+CCOPTS += -I./src
+CCLIBS	= -lm
+
+# For the command line tool
+CCLIBS += -lreadline
+
+# On some platforms -lreadline also requires -lncurses (e.g. RHEL), so it is
+# added by default (you may be able to remove it)
+CCLIBS += -lncurses
+
+# If you don't have readline, or something else fails to compile
+#CCOPTS += -DDUK_CMDLINE_BAREBONES
+
+# Optional feature defines, see: http://www.duktape.org/guide.html#compiling
+CCOPTS += -DDUK_OPT_SELF_TESTS
+#CCOPTS += -DDUK_OPT_DEBUG
+#CCOPTS += -DDUK_OPT_DPRINT
+# ...
+
+duk:	$(DUKTAPE_SOURCES) $(DUKTAPE_CMDLINE_SOURCES)
+	$(CC) -o $@ $(DEFINES) $(CCOPTS) $(DUKTAPE_SOURCES) $(DUKTAPE_CMDLINE_SOURCES) $(CCLIBS)
+

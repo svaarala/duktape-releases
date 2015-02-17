@@ -1,0 +1,2973 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:_3="http://spdx.org/rdf/terms#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:nodeID="syXulUly161">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_util_misc.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly162"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly182">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>8ed3a4fcdb22dc963cf4367ac0e954d253814b56</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly224">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>d529a6faac560def1e5b2cdb991713a6d70b0e26</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly366">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>215f6fec820889330048f7f2c1b5a220eb963657</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly55">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/eventloop/ncurses.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly56"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly126">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>ffe06e7002ad7bd91ae0ed8dcabbea3c91770cd3</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly154">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>b4926d03bd1b261aabbf44d4cba495e9223de737</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly221">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_unicode_tables.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly222"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly282">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>6db67c572748b2af054a3071a934f17158730cec</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly202">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>786369a33cccbadc3d2efba613a43fdd638971fc</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly248">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>d918bd9e9e7bbe48245731ca84f2443a988fc924</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly104">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>10c24a17c2f5f82d8c1a8fab8673c0c9075c1817</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly59">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/eventloop/c_eventloop.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly60"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly78">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>29b1960bc40607c2cf496465068611b2ffc4de87</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly270">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>9772cc413d1009e0ee9be4966c1d6083465fcd59</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly223">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_util_tinyrandom.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly224"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly216">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>1e26b38b9d334741385a04e3de99149db3fc5f98</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly197">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_error_longjmp.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly198"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly284">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>b706935c7a33cf0105186d373cc1fc9339ca9dfb</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly13">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_other"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./Makefile.hello</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly14"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly285">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_hbuffer_ops.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly286"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly35">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_other"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/coffee/hello.coffee</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly36"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly369">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src/duktape.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly370"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly68">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>6a1500fea27ea278c4f0c64d908e16cc60df684b</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly166">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>c16529008ba007b6413e32ed1de7dc18874b865f</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly108">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>bb89ca07f5c699e23fe7958de65df8eca71581a0</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly172">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>39c2daed6d4dd40da4faeb12964d962a96baad00</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly151">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_hstring_misc.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly152"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly4">
+    <_3:description>Duktape is an embeddable Javascript engine, with a focus on portability and compact footprint</_3:description>
+    <_3:packageVerificationCode rdf:nodeID="syXulUly5"/>
+    <_3:licenseComments>Duktape is copyrighted by its authors and licensed under the MIT license.  MurmurHash2 is used internally, it is also under the MIT license. Duktape module loader is based on the CommonJS module loading specification (without sharing any code), CommonJS is under the MIT license.</_3:licenseComments>
+    <_3:sourceInfo>Official duktape.org release built from GitHub repo https://github.com/svaarala/duktape.</_3:sourceInfo>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+    <_3:packageFileName>duktape-1.1.1.tar.xz</_3:packageFileName>
+    <_3:summary>Duktape Ecmascript interpreter</_3:summary>
+    <_3:hasFile rdf:nodeID="syXulUly149"/>
+    <_3:hasFile rdf:nodeID="syXulUly255"/>
+    <_3:hasFile rdf:nodeID="syXulUly321"/>
+    <_3:hasFile rdf:nodeID="syXulUly29"/>
+    <_3:hasFile rdf:nodeID="syXulUly123"/>
+    <_3:hasFile rdf:nodeID="syXulUly145"/>
+    <_3:hasFile rdf:nodeID="syXulUly19"/>
+    <_3:hasFile rdf:nodeID="syXulUly249"/>
+    <_3:hasFile rdf:nodeID="syXulUly133"/>
+    <_3:hasFile rdf:nodeID="syXulUly103"/>
+    <_3:hasFile rdf:nodeID="syXulUly121"/>
+    <_3:hasFile rdf:nodeID="syXulUly275"/>
+    <_3:hasFile rdf:nodeID="syXulUly21"/>
+    <_3:hasFile rdf:nodeID="syXulUly161"/>
+    <_3:hasFile rdf:nodeID="syXulUly173"/>
+    <_3:hasFile rdf:nodeID="syXulUly131"/>
+    <_3:hasFile rdf:nodeID="syXulUly55"/>
+    <_3:hasFile rdf:nodeID="syXulUly45"/>
+    <_3:hasFile rdf:nodeID="syXulUly311"/>
+    <_3:hasFile rdf:nodeID="syXulUly309"/>
+    <_3:hasFile rdf:nodeID="syXulUly315"/>
+    <_3:hasFile rdf:nodeID="syXulUly179"/>
+    <_3:hasFile rdf:nodeID="syXulUly219"/>
+    <_3:hasFile rdf:nodeID="syXulUly211"/>
+    <_3:hasFile rdf:nodeID="syXulUly185"/>
+    <_3:hasFile rdf:nodeID="syXulUly221"/>
+    <_3:hasFile rdf:nodeID="syXulUly9"/>
+    <_3:hasFile rdf:nodeID="syXulUly347"/>
+    <_3:hasFile rdf:nodeID="syXulUly189"/>
+    <_3:hasFile rdf:nodeID="syXulUly331"/>
+    <_3:hasFile rdf:nodeID="syXulUly83"/>
+    <_3:hasFile rdf:nodeID="syXulUly303"/>
+    <_3:hasFile rdf:nodeID="syXulUly59"/>
+    <_3:hasFile rdf:nodeID="syXulUly39"/>
+    <_3:hasFile rdf:nodeID="syXulUly261"/>
+    <_3:hasFile rdf:nodeID="syXulUly61"/>
+    <_3:hasFile rdf:nodeID="syXulUly209"/>
+    <_3:hasFile rdf:nodeID="syXulUly197"/>
+    <_3:hasFile rdf:nodeID="syXulUly317"/>
+    <_3:hasFile rdf:nodeID="syXulUly79"/>
+    <_3:hasFile rdf:nodeID="syXulUly267"/>
+    <_3:hasFile rdf:nodeID="syXulUly13"/>
+    <_3:hasFile rdf:nodeID="syXulUly285"/>
+    <_3:hasFile rdf:nodeID="syXulUly223"/>
+    <_3:hasFile rdf:nodeID="syXulUly11"/>
+    <_3:hasFile rdf:nodeID="syXulUly125"/>
+    <_3:hasFile rdf:nodeID="syXulUly113"/>
+    <_3:hasFile rdf:nodeID="syXulUly165"/>
+    <_3:hasFile rdf:nodeID="syXulUly171"/>
+    <_3:hasFile rdf:nodeID="syXulUly129"/>
+    <_3:hasFile rdf:nodeID="syXulUly119"/>
+    <_3:hasFile rdf:nodeID="syXulUly35"/>
+    <_3:hasFile rdf:nodeID="syXulUly177"/>
+    <_3:hasFile rdf:nodeID="syXulUly345"/>
+    <_3:hasFile rdf:nodeID="syXulUly313"/>
+    <_3:hasFile rdf:nodeID="syXulUly335"/>
+    <_3:hasFile rdf:nodeID="syXulUly215"/>
+    <_3:hasFile rdf:nodeID="syXulUly359"/>
+    <_3:hasFile rdf:nodeID="syXulUly205"/>
+    <_3:hasFile rdf:nodeID="syXulUly239"/>
+    <_3:hasFile rdf:nodeID="syXulUly167"/>
+    <_3:hasFile rdf:nodeID="syXulUly105"/>
+    <_3:hasFile rdf:nodeID="syXulUly151"/>
+    <_3:hasFile rdf:nodeID="syXulUly153"/>
+    <_3:hasFile rdf:nodeID="syXulUly203"/>
+    <_3:hasFile rdf:nodeID="syXulUly169"/>
+    <_3:hasFile rdf:nodeID="syXulUly27"/>
+    <_3:hasFile rdf:nodeID="syXulUly349"/>
+    <_3:hasFile rdf:nodeID="syXulUly91"/>
+    <_3:hasFile rdf:nodeID="syXulUly293"/>
+    <_3:hasFile rdf:nodeID="syXulUly81"/>
+    <_3:hasFile rdf:nodeID="syXulUly193"/>
+    <_3:hasFile rdf:nodeID="syXulUly333"/>
+    <_3:hasFile rdf:nodeID="syXulUly187"/>
+    <_3:hasFile rdf:nodeID="syXulUly111"/>
+    <_3:hasFile rdf:nodeID="syXulUly51"/>
+    <_3:hasFile rdf:nodeID="syXulUly295"/>
+    <_3:hasFile rdf:nodeID="syXulUly369"/>
+    <_3:hasFile rdf:nodeID="syXulUly251"/>
+    <_3:hasFile rdf:nodeID="syXulUly63"/>
+    <_3:hasFile rdf:nodeID="syXulUly371"/>
+    <_3:hasFile rdf:nodeID="syXulUly207"/>
+    <_3:hasFile rdf:nodeID="syXulUly159"/>
+    <_3:hasFile rdf:nodeID="syXulUly155"/>
+    <_3:hasFile rdf:nodeID="syXulUly235"/>
+    <_3:hasFile rdf:nodeID="syXulUly233"/>
+    <_3:hasFile rdf:nodeID="syXulUly201"/>
+    <_3:hasFile rdf:nodeID="syXulUly163"/>
+    <_3:hasFile rdf:nodeID="syXulUly213"/>
+    <_3:hasFile rdf:nodeID="syXulUly53"/>
+    <_3:hasFile rdf:nodeID="syXulUly355"/>
+    <_3:hasFile rdf:nodeID="syXulUly101"/>
+    <_3:hasFile rdf:nodeID="syXulUly143"/>
+    <_3:hasFile rdf:nodeID="syXulUly49"/>
+    <_3:hasFile rdf:nodeID="syXulUly183"/>
+    <_3:hasFile rdf:nodeID="syXulUly109"/>
+    <_3:hasFile rdf:nodeID="syXulUly139"/>
+    <_3:hasFile rdf:nodeID="syXulUly281"/>
+    <_3:hasFile rdf:nodeID="syXulUly279"/>
+    <_3:hasFile rdf:nodeID="syXulUly327"/>
+    <_3:hasFile rdf:nodeID="syXulUly195"/>
+    <_3:hasFile rdf:nodeID="syXulUly47"/>
+    <_3:hasFile rdf:nodeID="syXulUly271"/>
+    <_3:hasFile rdf:nodeID="syXulUly225"/>
+    <_3:hasFile rdf:nodeID="syXulUly217"/>
+    <_3:hasFile rdf:nodeID="syXulUly305"/>
+    <_3:hasFile rdf:nodeID="syXulUly273"/>
+    <_3:hasFile rdf:nodeID="syXulUly365"/>
+    <_3:hasFile rdf:nodeID="syXulUly41"/>
+    <_3:hasFile rdf:nodeID="syXulUly23"/>
+    <_3:hasFile rdf:nodeID="syXulUly93"/>
+    <_3:hasFile rdf:nodeID="syXulUly25"/>
+    <_3:hasFile rdf:nodeID="syXulUly353"/>
+    <_3:hasFile rdf:nodeID="syXulUly115"/>
+    <_3:hasFile rdf:nodeID="syXulUly237"/>
+    <_3:hasFile rdf:nodeID="syXulUly199"/>
+    <_3:hasFile rdf:nodeID="syXulUly181"/>
+    <_3:hasFile rdf:nodeID="syXulUly137"/>
+    <_3:hasFile rdf:nodeID="syXulUly297"/>
+    <_3:hasFile rdf:nodeID="syXulUly263"/>
+    <_3:hasFile rdf:nodeID="syXulUly43"/>
+    <_3:hasFile rdf:nodeID="syXulUly291"/>
+    <_3:hasFile rdf:nodeID="syXulUly175"/>
+    <_3:hasFile rdf:nodeID="syXulUly357"/>
+    <_3:hasFile rdf:nodeID="syXulUly351"/>
+    <_3:hasFile rdf:nodeID="syXulUly17"/>
+    <_3:hasFile rdf:nodeID="syXulUly245"/>
+    <_3:hasFile rdf:nodeID="syXulUly227"/>
+    <_3:hasFile rdf:nodeID="syXulUly307"/>
+    <_3:hasFile rdf:nodeID="syXulUly95"/>
+    <_3:hasFile rdf:nodeID="syXulUly319"/>
+    <_3:hasFile rdf:nodeID="syXulUly257"/>
+    <_3:hasFile rdf:nodeID="syXulUly259"/>
+    <_3:hasFile rdf:nodeID="syXulUly97"/>
+    <_3:hasFile rdf:nodeID="syXulUly191"/>
+    <_3:hasFile rdf:nodeID="syXulUly65"/>
+    <_3:hasFile rdf:nodeID="syXulUly127"/>
+    <_3:hasFile rdf:nodeID="syXulUly325"/>
+    <_3:hasFile rdf:nodeID="syXulUly7"/>
+    <_3:hasFile rdf:nodeID="syXulUly363"/>
+    <_3:hasFile rdf:nodeID="syXulUly367"/>
+    <_3:hasFile rdf:nodeID="syXulUly71"/>
+    <_3:hasFile rdf:nodeID="syXulUly15"/>
+    <_3:hasFile rdf:nodeID="syXulUly33"/>
+    <_3:hasFile rdf:nodeID="syXulUly231"/>
+    <_3:hasFile rdf:nodeID="syXulUly229"/>
+    <_3:hasFile rdf:nodeID="syXulUly243"/>
+    <_3:hasFile rdf:nodeID="syXulUly301"/>
+    <_3:hasFile rdf:nodeID="syXulUly141"/>
+    <_3:hasFile rdf:nodeID="syXulUly77"/>
+    <_3:hasFile rdf:nodeID="syXulUly99"/>
+    <_3:hasFile rdf:nodeID="syXulUly85"/>
+    <_3:hasFile rdf:nodeID="syXulUly341"/>
+    <_3:hasFile rdf:nodeID="syXulUly287"/>
+    <_3:hasFile rdf:nodeID="syXulUly117"/>
+    <_3:hasFile rdf:nodeID="syXulUly89"/>
+    <_3:hasFile rdf:nodeID="syXulUly323"/>
+    <_3:hasFile rdf:nodeID="syXulUly337"/>
+    <_3:hasFile rdf:nodeID="syXulUly277"/>
+    <_3:hasFile rdf:nodeID="syXulUly69"/>
+    <_3:hasFile rdf:nodeID="syXulUly299"/>
+    <_3:hasFile rdf:nodeID="syXulUly283"/>
+    <_3:hasFile rdf:nodeID="syXulUly241"/>
+    <_3:hasFile rdf:nodeID="syXulUly247"/>
+    <_3:hasFile rdf:nodeID="syXulUly73"/>
+    <_3:hasFile rdf:nodeID="syXulUly107"/>
+    <_3:hasFile rdf:nodeID="syXulUly329"/>
+    <_3:hasFile rdf:nodeID="syXulUly289"/>
+    <_3:hasFile rdf:nodeID="syXulUly265"/>
+    <_3:hasFile rdf:nodeID="syXulUly269"/>
+    <_3:hasFile rdf:nodeID="syXulUly147"/>
+    <_3:hasFile rdf:nodeID="syXulUly87"/>
+    <_3:hasFile rdf:nodeID="syXulUly157"/>
+    <_3:hasFile rdf:nodeID="syXulUly75"/>
+    <_3:hasFile rdf:nodeID="syXulUly57"/>
+    <_3:hasFile rdf:nodeID="syXulUly253"/>
+    <_3:hasFile rdf:nodeID="syXulUly135"/>
+    <_3:hasFile rdf:nodeID="syXulUly361"/>
+    <_3:hasFile rdf:nodeID="syXulUly343"/>
+    <_3:hasFile rdf:nodeID="syXulUly31"/>
+    <_3:hasFile rdf:nodeID="syXulUly339"/>
+    <_3:hasFile rdf:nodeID="syXulUly37"/>
+    <_3:hasFile rdf:nodeID="syXulUly67"/>
+    <_3:downloadLocation rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://duktape.org/duktape-1.1.1.tar.xz</_3:downloadLocation>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Package"/>
+    <_3:homePage rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://duktape.org/</_3:homePage>
+    <_3:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:name>Duktape</_3:name>
+    <_3:licenseDeclared rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:supplier>Organization: duktape.org</_3:supplier>
+    <_3:versionInfo>1.1.1</_3:versionInfo>
+    <_3:originator>Organization: duktape.org</_3:originator>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly259">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_api_memory.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly260"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly44">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>149fd21526c90d52b22e77b297f76e6da3e656ff</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly187">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_js_call.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly188"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly51">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/eventloop/main.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly52"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly16">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>fb1276fc9d78058bde653131e0e5035cb99c0c6b</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly74">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>d869c0f8797a659124b3ba31c75f494b15bea5e6</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly102">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>83b27494e6b257ab09828b0a4a1cf907686778a5</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly235">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_hthread_stacks.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly236"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly268">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>08d0549cf462b666543b6da0f61ca112f7e8a11b</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly213">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_hthread_builtins.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly214"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly49">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/jxpretty/jxpretty.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly50"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly316">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>60b31591fb18d692b28ae97c827c4fa36d45d77e</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly142">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>ee40823cd60d5ff94d3ca68461827b1ccfc9a5f4</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly62">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>64566ae0bdc1c3e1017604b6b45d515c30d976eb</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly195">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_heap_stringtable.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly196"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly47">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_other"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/jxpretty/README.rst</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly48"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly372">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>4811db26bf9db6b39f3855c660fc93b8a69c6b4b</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly338">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>6fec920096ab278342b4832aac85e480f47c3b69</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly217">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_bi_protos.h</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly218"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly190">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>721bf8ad86867f7135d530138966d8b98dc8f709</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly171">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_lexer.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly172"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly237">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_hnativefunction.h</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly238"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly262">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>fe7b84852cb35ea89e32db342eab59b1db707dc5</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly52">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>5eaf7a5995bc22a1e4f9a0cb6e436d85ccb38516</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly361">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./polyfills/performance-now.js</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly362"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly291">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_bi_array.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly292"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly340">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>f79f6933571dcdd7108447f6e8e86f4735b30caf</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly272">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>3d749791dc2b8f79260acbc84327dc4af74be8f8</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly351">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_debug_macros.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly352"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly178">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>ac012640c4742b4fa56780064707738be57f1b17</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly96">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>881f1b114c9fbba139044ddcbbc5398243185d10</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly95">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_other"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/alloc-torture/README.rst</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly96"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly243">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_bi_buffer.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly244"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly352">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>2b9539d8a386db95007328a47e11396df2974b79</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly367">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_other"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./licenses/commonjs.txt</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly368"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly225">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_replacements.h</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly226"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly93">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/guide/prime.js</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly94"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly110">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>58c701ade28ee5a475dede84a6e771893e3fc40f</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly257">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_error_misc.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly258"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly36">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>ea413ed7d47cf27c6f3ffe25956b1370b653c200</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly188">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>28fc2f043afe0217557f8ae86f10438458c44239</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly86">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>4baffeb2aa785bdc1065eb9ddb8c64c8a028655d</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly355">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./polyfills/object-assign.js</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly356"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly308">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>3a1fdb0c8186f731584364a6429df5d4ed330e82</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly89">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/guide/process.js</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly90"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly310">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>d0619ecf5309a8bad7742eabb18b95086855d64e</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly134">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>a2c79a55a60f73e1a1567b96d584399571180ef5</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly299">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_util_bitencoder.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly300"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly247">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_lexer.h</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly248"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly14">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>f1fc06bc8e39fb911f260709f196d7646cfb45d6</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly158">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>7566d00b4bb2eba8c30fa5deed185b79423ed496</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly107">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/cmdline/duk_cmdline.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly108"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly84">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>8aa63b553757fe1229638e978b540d7116b70274</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly269">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_selftest.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly270"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly157">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_js_compiler.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly158"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly90">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>7edf7600e1a6f09d1e4a0e2f9be418b59fff7c52</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly231">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_error_augment.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly232"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly334">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>0703700fc7b1b955addf108271cab6b3f90ca0c1</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly120">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>742635fda10ef9775864077e647b59442768a69c</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly31">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_other"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/README.rst</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly32"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly37">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_other"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/coffee/README.rst</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly38"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly150">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>84ce5c578b6fd8e4aa822dfd49d996e889ab139b</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly359">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./polyfills/console-minimal.js</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly360"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly255">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_js_var.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly256"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly304">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>ff17cbc9cb84b86f83bb104a247e5c265a9fe5b5</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly83">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/guide/processlines.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly84"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly145">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_bi_global.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly146"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly54">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>07a167411a356aebfbe987353846a9c711998f20</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly56">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>484fb41d516abcbe8c97af5aa80b76c67dbfb0cb</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly295">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_api_compile.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly296"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly189">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_bi_date.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly190"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly94">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>4e5a54de08355669dc98b5d4ad379384b33da4e5</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly130">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>0230c14247aba481415efb0efaae63c6fe8d61b6</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly131">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_regexp_executor.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly132"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly250">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>83b0a437357a3e02f60023b8b2372483916b88f9</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly45">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/alloc-hybrid/duk_alloc_hybrid.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly46"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly365">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_other"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./licenses/murmurhash2.txt</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly366"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly233">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_api_heap.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly234"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly40">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>75c61dd080cd643b7449f673105b7b7e4bdda0f5</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly347">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_heap_stringcache.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly348"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly3">
+    <_3:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-02-17T17:30:10Z</_3:created>
+    <_3:creator>Organization: duktape.org</_3:creator>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#CreationInfo"/>
+    <_3:licenseListVersion>1.20</_3:licenseListVersion>
+    <rdfs:comment></rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly148">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>0fd79121cfa729c2dd3e47632ec46204609013ef</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly331">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_api_stack.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly332"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly210">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>a10849b7356e03ce2fd84624f84f355892e28479</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly39">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_other"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/coffee/globals.coffee</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly40"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly317">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_bi_proxy.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly318"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly344">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>61c7f89aa56094410418e766c89c1975db021daa</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly125">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_error_throw.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly126"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly113">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_other"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/sandbox/README.rst</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly114"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly165">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_unicode.h</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly166"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly69">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/eventloop/basic-test.js</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly70"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly218">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>5d9c5d97b741a9757111820c77ed39fc6d60d0a1</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly281">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_error_macros.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly282"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly66">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>4db4ca2d7ce3f076fd195372d53e8bc5714d2597</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly368">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>92ce3decf72b10b0023116ac727a752e8749aa90</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly152">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>7502f77b459c82f4e9a45ecdde05125d79153bdf</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly313">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_numconv.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly314"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly88">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>206ffd13c06208e85baba2b257fe3ddebb56a6c2</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly105">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/cmdline/duk_cmdline_ajduk.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly106"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly58">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>267b0c6303bf006be3a8cd86ed478234d7d7aa5d</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly153">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_hthread_misc.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly154"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly169">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_api_call.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly170"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly220">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>026b19df4e87ade211d9fbd2964091c81be532df</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly27">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_other"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./Makefile.eventloop</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly28"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly81">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_other"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/guide/README.rst</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly82"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly239">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_internal.h</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly240"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly236">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>6de477b5fccb4908d4774441df035aeca9ccbed9</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly251">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_heap_refcount.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly252"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly63">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/eventloop/fileio.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly64"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly144">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>a29caaec336d784c270df3d1cefb49ced47b4c89</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly207">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_bi_math.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly208"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly100">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>d45e3fc443887261ce432a807aaebd2a1812264e</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly124">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>bb757aba5b5a879c2d5cf096a37100ba98bf37fe</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly136">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>b5f54e8a18d5dc9a791cb36976a7d2345d26b549</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly206">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>f3f46dd5388fc2e5afe9c84d817ccad6473ba105</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly356">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>4e759bb6417972c3a6956d728e962bfbf53a1196</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly70">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>88ab1d060886393d94b6fb7c6054a0189117340b</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly109">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_other"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/cmdline/README.rst</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly110"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly256">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>32cd9f5f1ad0169ddc6af63bfacea1c44e71918f</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly168">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>2cab6bbde5692d981a18b6fe2877308f2c0820ec</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly176">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>8417f138a033e8acac100123581ce7903aeae364</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly186">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>1cb8e91cc217f2ef1c8a35de07dbb86b5760b76e</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly41">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/alloc-hybrid/duk_alloc_hybrid.h</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly42"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly115">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/alloc-logging/duk_alloc_logging.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly116"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly181">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_hobject_alloc.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly182"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly286">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>0c0e81a47ca652b904581f5f656dfb60f80c05bb</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly43">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_other"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/alloc-hybrid/README.rst</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly44"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly175">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_heap.h</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly176"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly357">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./polyfills/object-prototype-definesetter.js</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly358"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly232">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>42bc12734596d24d819d5404588f8425ec0b7339</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly245">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_hcompiledfunction.h</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly246"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly227">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_util_hashprime.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly228"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly97">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/alloc-torture/duk_alloc_torture.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly98"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly65">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/eventloop/ecma_eventloop.js</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly66"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly325">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_js_ops.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly326"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly7">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_other"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:fileName>./LICENSE.txt</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly8"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly363">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_other"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./extras/README.rst</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly364"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly242">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>2f8669dd49e81d91e02553904dbb5f9b517f0beb</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly33">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_other"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/coffee/mandel.coffee</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly34"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly48">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>8c5ee5b508a23ac5089a7e6c76593b6678965869</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly229">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_selftest.h</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly230"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly348">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>1bce4dadb408a2a6a77b366f0ecfc18398cbb722</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly141">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_api_debug.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly142"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly135">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_jmpbuf.h</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly136"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly240">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>819c4abc992ad9b334feac7522999c4bfb3ff36b</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly328">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>b538e267e5dbd4065eb8a1e0f9a41b9773934381</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly264">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>15351be198becc2aed12fc617f64eead97c5f357</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly283">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_regexp_compiler.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly284"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly28">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>fa85ee3394206d18c611b837e700257ba8336250</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly73">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/eventloop/client-socket-test.js</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly74"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly198">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>6f12665affb325d53ab11c0e40418b2326c1ac17</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly289">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_hobject.h</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly290"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly164">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>e2afd8f070023be92987fe0a882699de35437b93</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly138">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>d790de4695a75b8a5eb76c1bcdfad2385fa0f71b</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly76">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>f9072f5c361c86887b57ce662b3cd7211b4ce346</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly147">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_bi_function.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly148"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly307">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_js_executor.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly308"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly75">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/eventloop/server-socket-test.js</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly76"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly98">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>c5838b9d6f73dc2f955990691a77c2805af89800</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly296">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>2d56c38d6b69ec5c8de3b79c20c0a24bc97cd796</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly29">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_other"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./Makefile.jxpretty</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly30"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly19">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_other"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./Makefile.coffee</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly20"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly103">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_other"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/hello/README.rst</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly104"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly311">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_api_buffer.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly312"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly315">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_heaphdr.h</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly316"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly211">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_bi_json.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly212"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly185">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_bi_string.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly186"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly9">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_other"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./duk_build_meta.json</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly10"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly290">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>3b772269de0624ab56474a23f70b1eb22e1ccfea</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly34">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>4239a907720cf3620bd0b03eb43981e7182e305a</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly303">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_heap_memory.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly304"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly261">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_hthread.h</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly262"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly123">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_bi_error.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly124"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly209">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_heap_misc.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly210"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly160">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>56a4e5fbd50d1b9917625a0dfcf6e2619b034786</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly306">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>2e9dca0919a92c68ed30593292b3fe7140480062</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly228">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>e44b8b092afcfa97e693eb3e0be97d41f8aff301</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly194">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>25bff5c2d7a1d324b964749a97b766497aafdab4</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly129">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_builtins.h</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly130"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly12">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>3440bc334491d5eba74a3dc676cc4247f59dfb01</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly162">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>486ffc9ccc817abcd66d54863d674dd2ab3eadef</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly335">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duktape.h</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly336"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly128">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>5eb20b7f10f6b9c6db68956f1e3d9bd0d598de0d</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly24">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>cce69a684e403c37edef1874d469cae345e9587b</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly326">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>d45b3ac479e41b6b8ab95acbf154e583f02f405d</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly118">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>66fb3049ee3269d8c04be1aa9d7a801346bfecda</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly6">
+    <_3:specVersion>SPDX-1.2</_3:specVersion>
+    <_3:dataLicense rdf:resource="http://spdx.org/licenses/CC0-1.0"/>
+    <_3:creationInfo rdf:nodeID="syXulUly3"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#SpdxDocument"/>
+    <rdfs:comment>SPDX license for Duktape 1.1.1</rdfs:comment>
+    <_3:describesPackage rdf:nodeID="syXulUly4"/>
+    <_3:referencesFile rdf:nodeID="syXulUly149"/>
+    <_3:referencesFile rdf:nodeID="syXulUly255"/>
+    <_3:referencesFile rdf:nodeID="syXulUly321"/>
+    <_3:referencesFile rdf:nodeID="syXulUly29"/>
+    <_3:referencesFile rdf:nodeID="syXulUly123"/>
+    <_3:referencesFile rdf:nodeID="syXulUly145"/>
+    <_3:referencesFile rdf:nodeID="syXulUly19"/>
+    <_3:referencesFile rdf:nodeID="syXulUly249"/>
+    <_3:referencesFile rdf:nodeID="syXulUly133"/>
+    <_3:referencesFile rdf:nodeID="syXulUly103"/>
+    <_3:referencesFile rdf:nodeID="syXulUly121"/>
+    <_3:referencesFile rdf:nodeID="syXulUly275"/>
+    <_3:referencesFile rdf:nodeID="syXulUly21"/>
+    <_3:referencesFile rdf:nodeID="syXulUly161"/>
+    <_3:referencesFile rdf:nodeID="syXulUly173"/>
+    <_3:referencesFile rdf:nodeID="syXulUly131"/>
+    <_3:referencesFile rdf:nodeID="syXulUly55"/>
+    <_3:referencesFile rdf:nodeID="syXulUly45"/>
+    <_3:referencesFile rdf:nodeID="syXulUly311"/>
+    <_3:referencesFile rdf:nodeID="syXulUly309"/>
+    <_3:referencesFile rdf:nodeID="syXulUly315"/>
+    <_3:referencesFile rdf:nodeID="syXulUly179"/>
+    <_3:referencesFile rdf:nodeID="syXulUly219"/>
+    <_3:referencesFile rdf:nodeID="syXulUly211"/>
+    <_3:referencesFile rdf:nodeID="syXulUly185"/>
+    <_3:referencesFile rdf:nodeID="syXulUly221"/>
+    <_3:referencesFile rdf:nodeID="syXulUly9"/>
+    <_3:referencesFile rdf:nodeID="syXulUly347"/>
+    <_3:referencesFile rdf:nodeID="syXulUly189"/>
+    <_3:referencesFile rdf:nodeID="syXulUly331"/>
+    <_3:referencesFile rdf:nodeID="syXulUly83"/>
+    <_3:referencesFile rdf:nodeID="syXulUly303"/>
+    <_3:referencesFile rdf:nodeID="syXulUly59"/>
+    <_3:referencesFile rdf:nodeID="syXulUly39"/>
+    <_3:referencesFile rdf:nodeID="syXulUly261"/>
+    <_3:referencesFile rdf:nodeID="syXulUly61"/>
+    <_3:referencesFile rdf:nodeID="syXulUly209"/>
+    <_3:referencesFile rdf:nodeID="syXulUly197"/>
+    <_3:referencesFile rdf:nodeID="syXulUly317"/>
+    <_3:referencesFile rdf:nodeID="syXulUly79"/>
+    <_3:referencesFile rdf:nodeID="syXulUly267"/>
+    <_3:referencesFile rdf:nodeID="syXulUly13"/>
+    <_3:referencesFile rdf:nodeID="syXulUly285"/>
+    <_3:referencesFile rdf:nodeID="syXulUly223"/>
+    <_3:referencesFile rdf:nodeID="syXulUly11"/>
+    <_3:referencesFile rdf:nodeID="syXulUly125"/>
+    <_3:referencesFile rdf:nodeID="syXulUly113"/>
+    <_3:referencesFile rdf:nodeID="syXulUly165"/>
+    <_3:referencesFile rdf:nodeID="syXulUly171"/>
+    <_3:referencesFile rdf:nodeID="syXulUly129"/>
+    <_3:referencesFile rdf:nodeID="syXulUly119"/>
+    <_3:referencesFile rdf:nodeID="syXulUly35"/>
+    <_3:referencesFile rdf:nodeID="syXulUly177"/>
+    <_3:referencesFile rdf:nodeID="syXulUly345"/>
+    <_3:referencesFile rdf:nodeID="syXulUly313"/>
+    <_3:referencesFile rdf:nodeID="syXulUly335"/>
+    <_3:referencesFile rdf:nodeID="syXulUly215"/>
+    <_3:referencesFile rdf:nodeID="syXulUly359"/>
+    <_3:referencesFile rdf:nodeID="syXulUly205"/>
+    <_3:referencesFile rdf:nodeID="syXulUly239"/>
+    <_3:referencesFile rdf:nodeID="syXulUly167"/>
+    <_3:referencesFile rdf:nodeID="syXulUly105"/>
+    <_3:referencesFile rdf:nodeID="syXulUly151"/>
+    <_3:referencesFile rdf:nodeID="syXulUly153"/>
+    <_3:referencesFile rdf:nodeID="syXulUly203"/>
+    <_3:referencesFile rdf:nodeID="syXulUly169"/>
+    <_3:referencesFile rdf:nodeID="syXulUly27"/>
+    <_3:referencesFile rdf:nodeID="syXulUly349"/>
+    <_3:referencesFile rdf:nodeID="syXulUly91"/>
+    <_3:referencesFile rdf:nodeID="syXulUly293"/>
+    <_3:referencesFile rdf:nodeID="syXulUly81"/>
+    <_3:referencesFile rdf:nodeID="syXulUly193"/>
+    <_3:referencesFile rdf:nodeID="syXulUly333"/>
+    <_3:referencesFile rdf:nodeID="syXulUly187"/>
+    <_3:referencesFile rdf:nodeID="syXulUly111"/>
+    <_3:referencesFile rdf:nodeID="syXulUly51"/>
+    <_3:referencesFile rdf:nodeID="syXulUly295"/>
+    <_3:referencesFile rdf:nodeID="syXulUly369"/>
+    <_3:referencesFile rdf:nodeID="syXulUly251"/>
+    <_3:referencesFile rdf:nodeID="syXulUly63"/>
+    <_3:referencesFile rdf:nodeID="syXulUly371"/>
+    <_3:referencesFile rdf:nodeID="syXulUly207"/>
+    <_3:referencesFile rdf:nodeID="syXulUly159"/>
+    <_3:referencesFile rdf:nodeID="syXulUly155"/>
+    <_3:referencesFile rdf:nodeID="syXulUly235"/>
+    <_3:referencesFile rdf:nodeID="syXulUly233"/>
+    <_3:referencesFile rdf:nodeID="syXulUly201"/>
+    <_3:referencesFile rdf:nodeID="syXulUly163"/>
+    <_3:referencesFile rdf:nodeID="syXulUly213"/>
+    <_3:referencesFile rdf:nodeID="syXulUly53"/>
+    <_3:referencesFile rdf:nodeID="syXulUly355"/>
+    <_3:referencesFile rdf:nodeID="syXulUly101"/>
+    <_3:referencesFile rdf:nodeID="syXulUly143"/>
+    <_3:referencesFile rdf:nodeID="syXulUly49"/>
+    <_3:referencesFile rdf:nodeID="syXulUly183"/>
+    <_3:referencesFile rdf:nodeID="syXulUly109"/>
+    <_3:referencesFile rdf:nodeID="syXulUly139"/>
+    <_3:referencesFile rdf:nodeID="syXulUly281"/>
+    <_3:referencesFile rdf:nodeID="syXulUly279"/>
+    <_3:referencesFile rdf:nodeID="syXulUly327"/>
+    <_3:referencesFile rdf:nodeID="syXulUly195"/>
+    <_3:referencesFile rdf:nodeID="syXulUly47"/>
+    <_3:referencesFile rdf:nodeID="syXulUly271"/>
+    <_3:referencesFile rdf:nodeID="syXulUly225"/>
+    <_3:referencesFile rdf:nodeID="syXulUly217"/>
+    <_3:referencesFile rdf:nodeID="syXulUly305"/>
+    <_3:referencesFile rdf:nodeID="syXulUly273"/>
+    <_3:referencesFile rdf:nodeID="syXulUly365"/>
+    <_3:referencesFile rdf:nodeID="syXulUly41"/>
+    <_3:referencesFile rdf:nodeID="syXulUly23"/>
+    <_3:referencesFile rdf:nodeID="syXulUly93"/>
+    <_3:referencesFile rdf:nodeID="syXulUly25"/>
+    <_3:referencesFile rdf:nodeID="syXulUly353"/>
+    <_3:referencesFile rdf:nodeID="syXulUly115"/>
+    <_3:referencesFile rdf:nodeID="syXulUly237"/>
+    <_3:referencesFile rdf:nodeID="syXulUly199"/>
+    <_3:referencesFile rdf:nodeID="syXulUly181"/>
+    <_3:referencesFile rdf:nodeID="syXulUly137"/>
+    <_3:referencesFile rdf:nodeID="syXulUly297"/>
+    <_3:referencesFile rdf:nodeID="syXulUly263"/>
+    <_3:referencesFile rdf:nodeID="syXulUly43"/>
+    <_3:referencesFile rdf:nodeID="syXulUly291"/>
+    <_3:referencesFile rdf:nodeID="syXulUly175"/>
+    <_3:referencesFile rdf:nodeID="syXulUly357"/>
+    <_3:referencesFile rdf:nodeID="syXulUly351"/>
+    <_3:referencesFile rdf:nodeID="syXulUly17"/>
+    <_3:referencesFile rdf:nodeID="syXulUly245"/>
+    <_3:referencesFile rdf:nodeID="syXulUly227"/>
+    <_3:referencesFile rdf:nodeID="syXulUly307"/>
+    <_3:referencesFile rdf:nodeID="syXulUly95"/>
+    <_3:referencesFile rdf:nodeID="syXulUly319"/>
+    <_3:referencesFile rdf:nodeID="syXulUly257"/>
+    <_3:referencesFile rdf:nodeID="syXulUly259"/>
+    <_3:referencesFile rdf:nodeID="syXulUly97"/>
+    <_3:referencesFile rdf:nodeID="syXulUly191"/>
+    <_3:referencesFile rdf:nodeID="syXulUly65"/>
+    <_3:referencesFile rdf:nodeID="syXulUly127"/>
+    <_3:referencesFile rdf:nodeID="syXulUly325"/>
+    <_3:referencesFile rdf:nodeID="syXulUly7"/>
+    <_3:referencesFile rdf:nodeID="syXulUly363"/>
+    <_3:referencesFile rdf:nodeID="syXulUly367"/>
+    <_3:referencesFile rdf:nodeID="syXulUly71"/>
+    <_3:referencesFile rdf:nodeID="syXulUly15"/>
+    <_3:referencesFile rdf:nodeID="syXulUly33"/>
+    <_3:referencesFile rdf:nodeID="syXulUly231"/>
+    <_3:referencesFile rdf:nodeID="syXulUly229"/>
+    <_3:referencesFile rdf:nodeID="syXulUly243"/>
+    <_3:referencesFile rdf:nodeID="syXulUly301"/>
+    <_3:referencesFile rdf:nodeID="syXulUly141"/>
+    <_3:referencesFile rdf:nodeID="syXulUly77"/>
+    <_3:referencesFile rdf:nodeID="syXulUly99"/>
+    <_3:referencesFile rdf:nodeID="syXulUly85"/>
+    <_3:referencesFile rdf:nodeID="syXulUly341"/>
+    <_3:referencesFile rdf:nodeID="syXulUly287"/>
+    <_3:referencesFile rdf:nodeID="syXulUly117"/>
+    <_3:referencesFile rdf:nodeID="syXulUly89"/>
+    <_3:referencesFile rdf:nodeID="syXulUly323"/>
+    <_3:referencesFile rdf:nodeID="syXulUly337"/>
+    <_3:referencesFile rdf:nodeID="syXulUly277"/>
+    <_3:referencesFile rdf:nodeID="syXulUly69"/>
+    <_3:referencesFile rdf:nodeID="syXulUly299"/>
+    <_3:referencesFile rdf:nodeID="syXulUly283"/>
+    <_3:referencesFile rdf:nodeID="syXulUly241"/>
+    <_3:referencesFile rdf:nodeID="syXulUly247"/>
+    <_3:referencesFile rdf:nodeID="syXulUly73"/>
+    <_3:referencesFile rdf:nodeID="syXulUly107"/>
+    <_3:referencesFile rdf:nodeID="syXulUly329"/>
+    <_3:referencesFile rdf:nodeID="syXulUly289"/>
+    <_3:referencesFile rdf:nodeID="syXulUly265"/>
+    <_3:referencesFile rdf:nodeID="syXulUly269"/>
+    <_3:referencesFile rdf:nodeID="syXulUly147"/>
+    <_3:referencesFile rdf:nodeID="syXulUly87"/>
+    <_3:referencesFile rdf:nodeID="syXulUly157"/>
+    <_3:referencesFile rdf:nodeID="syXulUly75"/>
+    <_3:referencesFile rdf:nodeID="syXulUly57"/>
+    <_3:referencesFile rdf:nodeID="syXulUly253"/>
+    <_3:referencesFile rdf:nodeID="syXulUly135"/>
+    <_3:referencesFile rdf:nodeID="syXulUly361"/>
+    <_3:referencesFile rdf:nodeID="syXulUly343"/>
+    <_3:referencesFile rdf:nodeID="syXulUly31"/>
+    <_3:referencesFile rdf:nodeID="syXulUly339"/>
+    <_3:referencesFile rdf:nodeID="syXulUly37"/>
+    <_3:referencesFile rdf:nodeID="syXulUly67"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly280">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>a20231719c1f9b97ea38fbc42dd8af1e21d74879</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly267">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_hbuffer.h</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly268"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly301">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_bi_duktape.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly302"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly320">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>7108fbe42728e2fe1c2448b119a6a1f52568ce53</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly72">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>6b98824e13a3d9536542b8da51d012a3d66ceec1</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly244">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>60ab54b390787d3088cf0ab8e619b7488d22fbc0</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly64">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>a9206a7b46f8d8319b798475650217f494fa76ab</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly159">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_hobject_finalizer.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly160"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly46">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>4b1c320e97b20f50c25142aa492361365dca1ced</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly319">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_initjs_min.js</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly320"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly201">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_util_bitdecoder.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly202"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly358">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>089c395fca3cedceec09fd38d32d0c77dc8658f4</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly22">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>3b8236810650f4e28bd84984b3c7e55029f241b0</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly101">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/hello/hello.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly102"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly87">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/guide/fib.js</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly88"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly184">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>246b22e7d0bb8fb37b7031704008497c8d884d08</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly346">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>b398df12e0b18a0e3edca6c4d55f7575cea9a76a</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly183">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_forwdecl.h</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly184"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly139">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_hobject_enum.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly140"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly192">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>eda5a9926609fc1c1c8db9cadbf1c31d4be69911</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly279">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_bi_boolean.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly280"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly327">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_bi_object.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly328"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly30">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>f88d68880f451267e7e2eca4b6c4191e8c3fe011</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly42">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>a8f8cf615ef79337a83eb791477dc9ed2c22822c</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly362">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>11a7a5b6b1557adeca8a9def51cb44282f24c853</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly271">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_tval.h</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly272"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly204">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>c2a03118fc32ae735760b1165ed5b20f252279cd</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly305">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_bi_regexp.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly306"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly309">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_strings.h</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly310"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly23">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_other"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./AUTHORS.rst</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly24"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly25">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_other"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./Makefile.eval</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly26"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly114">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>5d593ae6316ed7a3ea6e7ed0a47267745d79d12d</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly199">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_hstring.h</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly200"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly137">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_hobject_misc.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly138"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly263">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_json.h</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly264"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly38">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>af6b0cd61c02efa575b9106682606297d26f013b</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly155">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_js.h</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly156"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly174">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>26758714b79f8d440f7b71871226734c3a1aeba8</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly322">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>3efc20e402953a07cafec803c04655218a291f06</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly293">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_api_codec.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly294"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly191">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_builtins.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly192"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly364">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>d49c1cdb51b3a4fdd823c13831617a1f0a93edd1</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly127">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_unicode_support.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly128"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly163">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_strings.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly164"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly116">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>665dc7863c5da4838310b15b2d8b356881e6470b</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly71">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/eventloop/poll.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly72"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly297">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_heap_alloc.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly298"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly77">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_other"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/eval/README.rst</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly78"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly99">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/alloc-torture/duk_alloc_torture.h</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly100"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly85">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/guide/uppercase.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly86"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly287">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_heap_hashstring.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly288"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly323">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_bi_thread.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly324"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly140">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>3f88267fc25245f704daf807dd23e3629712399b</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly277">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_debug.h</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly278"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly241">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_js_compiler.h</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly242"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly312">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>bf0597b76380369d25ffdfbe85a458264475835c</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly288">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>dac5358f6604f45d28d5f2a18ee4837e86256f7c</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly234">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>14f649aa80c3ddf09b67bc1030dac438241dcd72</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly329">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_api_var.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly330"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly300">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>0811e545a133c3a62672e239624a0c1f11478b8d</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly292">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>e72d869f4c42b1757fd4c710c8a1440e1cd70e5e</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly143">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_error.h</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly144"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly82">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>e023af5c2fb4b1efab74a230c552f1eb1b37fc10</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly370">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>8b4155bfe011734e4891d7ca19e0001ef1543c84</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly57">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/eventloop/socket.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly58"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly276">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>982e40839854be361e3b57b5c07ef4f710ab749b</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly343">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_debug_fixedbuffer.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly344"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly149">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_util.h</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly150"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly321">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_api_string.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly322"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly117">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_other"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/alloc-logging/log2gnuplot.py</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly118"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly249">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_debug_vsnprintf.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly250"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly133">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_numconv.h</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly134"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly121">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_other"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/alloc-logging/README.rst</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly122"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly278">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>a5afcd26ab65a29d95a6e33bf0f33645ee4fd91b</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly275">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_bi_thrower.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly276"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly21">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_other"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./Makefile.sandbox</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly22"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly180">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>0647ef2c7bb86f37aa4ff88e57e78d7d4aa159ab</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly122">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>8015d14ffbc7a4a4b93d654f093aa48ec17fce4e</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly173">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_js_bytecode.h</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly174"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly18">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>e175da6c3e2d5276c05c7737317c8aa17a27456b</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly132">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>5f5517e6eb4ebcfda706619151c1e08ca513e9cd</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly179">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_regexp.h</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly180"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly219">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_bi_logger.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly220"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly92">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>ed3bd07dbd103d285277ab38c4b4a7dd4a4b654b</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly80">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>c2d899e7f2343579f29ad3079fde44eec5d6a544</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly26">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>fb4f806e7282dd3cb2df04e228672d8b0b1b8eb4</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly156">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>c9abacc50263ef73a584ceb8e40cc89f2162f102</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly196">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>79e0c25600c0dbb7793412eeeaa635885976c160</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly222">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>7b236da6f48b6f6aef43e6c959b43edaa8120ff4</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly314">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>67ac2deb59a0e08952159dff2b8595c5f916af7d</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly146">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>a38f8799d75c241eb4b8f2d490dde0e8f9b3b72d</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly61">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_other"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/eventloop/README.rst</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly62"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly79">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/eval/eval.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly80"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly170">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>ccbeae16a8a99e3eb66ddfd5f67889189564bd36</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly11">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_other"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./README.rst</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly12"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly350">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>2321e0a68bf940f8346d00adda9e4a58fa51f608</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly112">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>22046b9dfc552ed692193d1bf5e3d0e182111ae5</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly371">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src/duktape.h</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly372"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly119">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/alloc-logging/duk_alloc_logging.h</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly120"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly106">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>a94d865cfe919e521bd1567e8573661e2d741401</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly8">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>d3612be81efe335034cdc6c7ff4ea740d520ad0f</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly177">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_hbuffer_alloc.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly178"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly215">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_hobject_class.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly216"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly318">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>807bb07951ca05076438f47b0614f96ea91528b7</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly200">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>89ce4d46fcef5a35b3b6652d79ebe556b121d2a8</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly205">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_api_logging.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly206"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly167">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_hobject_props.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly168"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly294">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>78aa599bcd83bf2ee83350c1ded79aa4fba8caee</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly203">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_api_internal.h</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly204"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly342">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>23b6b54a8a35fbec735ffb332f4100a7f00557be</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly91">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/guide/primecheck.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly92"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly246">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>91e271253b2c35166de52b08874ad991e581ec7b</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly349">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_bi_pointer.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly350"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly193">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_hobject_pc2line.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly194"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly333">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_util_hashbytes.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly334"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly60">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>37cd1369fde1e7a63bf8516d12b2c9726401bf83</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly111">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/sandbox/sandbox.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly112"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly252">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>785db43016c5982f8f3f377730c02e75bea3cc35</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly53">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/eventloop/c_eventloop.js</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly54"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly10">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>f2b94819a9584bd0e5fec9a4c08e7df9bb37c4c2</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly354">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>e5a5f0db067ec56c6d2f7356f412222a8884dc92</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly298">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>734266148275797e1fc9cc6ff5eb7cf63f6d8860</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly20">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>61043b4a6f3cf86375ea6e34ebf83b550a1935b2</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly208">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>14ec83aeef66a38c6a4c48a175a544f66d319413</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly254">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>3c3512f12176489e20fd87fb34fdc9f880a281ff</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly345">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_alloc_default.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly346"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly258">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>afd3e5c9becf5feecaf57e4c5586b83da1ca61c3</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly273">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_hthread_alloc.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly274"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly353">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./polyfills/object-prototype-definegetter.js</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly354"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly337">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_replacements.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly338"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly302">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>683a9d2cca923e468c2610e7b80839ae5d92efdf</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly324">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>b2f66f393c178e011c068b230f17ef8a48b4ee29</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly17">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_other"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./Makefile.cmdline</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly18"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly50">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>3d700df1f765c39fc63bfd4e31a9d7da8d15c543</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly238">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>2c508fbc7eb127f6793cfe62bf947879668983a4</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly330">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>c56fa187a8a034a8cc57f4670b50f2a4be489bcd</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly15">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./mandel.js</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly16"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly266">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>6d5c6f265c3e7c23c08bc90112558c27e27ccec5</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly32">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>09ee87b3ae8afe8b7c2295127835b05b00603b25</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly5">
+    <_3:packageVerificationCodeValue>f3270d6cd4324ca8b95667b7359a50816db7b29d</_3:packageVerificationCodeValue>
+    <_3:packageVerificationCodeExcludedFile>./license.spdx</_3:packageVerificationCodeExcludedFile>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly341">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_debug_heap.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly342"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly214">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>8f6a2b281ed86ec813ab5b155ed61e29570584ac</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly274">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>8d307ae071694f3d2242578c7d88bcae5c2ef7de</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly260">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>6fb90778271640aa47312a40b336821639c95826</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly360">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>77be3131bbf689dd8da66e356e745f3dbb6d9040</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly230">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>34b0dc439c1aeb920a1db0ac0ed20ee189069ea1</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly332">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>506640e4e8318486f389af46ecb4208520276757</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly226">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>84b3f74e55ed4d76634e144d668601480573b369</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly265">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_api_object.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly266"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly212">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>a08b893d456abe771b18848e7af220f6fa64c25a</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly336">
+    <_3:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#Checksum"/>
+    <_3:checksumValue>39c7ddf669dc94e2de0b6898b3aa150f02c958a8</_3:checksumValue>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly253">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_heap_markandsweep.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly254"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly339">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./src-separate/duk_bi_number.c</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly340"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="syXulUly67">
+    <_3:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+    <_3:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+    <_3:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+    <_3:fileName>./examples/eventloop/curses-timers.js</_3:fileName>
+    <rdf:type rdf:resource="http://spdx.org/rdf/terms#File"/>
+    <_3:checksum rdf:nodeID="syXulUly68"/>
+    <_3:copyrightText>Copyright 2013-2014 Duktape authors (see AUTHORS.rst in the Duktape distributable)</_3:copyrightText>
+  </rdf:Description>
+</rdf:RDF>
